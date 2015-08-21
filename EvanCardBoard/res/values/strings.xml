@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">EvanCardBoard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- UI -->
+    <string name="dji_sdk_activate_error">DJI SDK activate error</string>
+    <string name="commonMessageString">Common message</string>
+    <string name="pressAgainExitString">Press again to exit</string>
+    <string name="unsupported_drone">Unsupported drone,use Inspire1 or Phantom 3 pro try again</string>
+    <string name="centralize_gimbal">Centralize Gimbal</string>
+    <string name="battery">Battery</string>
+
+</resources>
